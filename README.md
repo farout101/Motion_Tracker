@@ -1,4 +1,4 @@
-# Hand Tracking using OpenCV and MediaPipe
+# Motion Tracking using OpenCV and MediaPipe
 
 Make sure you have Python installed. Then, install the required libraries using pip:
 ```bash
