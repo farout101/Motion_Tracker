@@ -5,7 +5,7 @@ import time
 mpDraw = mp.solutions.drawing_utils
 mpPose = mp.solutions.pose
 pose = mpPose.Pose()
-cap = cv2.VideoCapture('PoseVideos/3.mp4')
+cap = cv2.VideoCapture('PoseVideos/3.mp4') # The vieo is in the same folder as the code
 pTime = 0
 
 while True:
